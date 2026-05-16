@@ -1,6 +1,6 @@
-# Weather Card
+# City Weather Planning Dashboard
 
-Weather Card is a React weather planning dashboard for searching live city forecasts, checking current conditions, and saving places users want to revisit. I built it as a portfolio project to practice API fetching, loading states, and turning raw weather data into a useful interface.
+City Weather Planning Dashboard is a React weather planning dashboard for searching live city forecasts, checking current conditions, and saving places users want to revisit. I built it as a portfolio project to practice API fetching, loading states, and turning raw weather data into a useful interface.
 
 ## Features
 
@@ -57,8 +57,8 @@ npm run build
 
 ## Repository Name Ideas
 
-1. `city-weather-forecast-dashboard`
-2. `weather-planning-dashboard-react`
+1. `weather-planning-dashboard`
+2. `city-weather-dashboard`
 3. `open-meteo-forecast-planner`
 
 ## GitHub About
@@ -71,8 +71,12 @@ React weather dashboard using Open-Meteo APIs with city search, saved places, fo
 
 ## Resume Bullet
 
-- Created Weather Card, a React weather dashboard that fetches live Open-Meteo forecast data, supports saved/recent city searches, unit toggles, and responsive forecast views.
+- Built a React weather dashboard using Open-Meteo APIs with city search, saved places, forecasts, unit toggles, and planning notes.
 
 ## LinkedIn Project Description
 
-Weather Card is a React weather dashboard I built to practice working with live APIs and user-friendly data displays. The app lets users search cities, view current conditions, compare hourly and five-day forecasts, save favorite places, and switch between Fahrenheit and Celsius. This project helped me improve my API fetching, data formatting, loading/error handling, and responsive UI skills.
+City Weather Planning Dashboard is a React weather dashboard I built to practice working with live APIs and user-friendly data displays. The app lets users search cities, view current conditions, compare hourly and five-day forecasts, save favorite places, and switch between Fahrenheit and Celsius. This project helped me improve my API fetching, data formatting, loading/error handling, and responsive UI skills.
+
+## Short Portfolio Description
+
+A React weather planning dashboard using Open-Meteo APIs with city search, saved places, forecasts, unit toggles, and planning notes.
